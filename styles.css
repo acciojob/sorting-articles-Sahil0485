@@ -1,1 +1,28 @@
-/*  your css code here. If applicable */
+/* styles.css */
+
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('your-image-url.jpg'); /* Add your image URL here */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Styling for the unordered list */
+#band {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#band li {
+    margin: 10px 0;
+    font-size: 1.5em;
+}
