@@ -1,6 +1,4 @@
-// script.js
 
-// Array of band names
 const bands = [
     'The Plot in You',
     'The Devil Wears Prada',
