@@ -4,8 +4,8 @@ body {
     background-size: cover;
     background-position: center;
 	background-color: white;
-    text-align: center;
     padding: 20px;
+	margin: auto 120px;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 }
 
 #band {
-    list-style-type: none;
+    list-style-type: square;
     padding-left: 0;
 }
 
