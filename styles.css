@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://wallpaperaccess.com/full/1752235.jpg');
+    background-size: cover;
+    background-position: center;
+	background-color: white;
+    padding: 20px;
+	margin: auto 120px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#band {
+    list-style-type: square;
+    padding-left: 0;
+}
+
+#band li {
+    margin: 10px 0;
+    font-size: 1.5em;
+}
